@@ -1,0 +1,2 @@
+# Stackchan_Bluetooth_A2SP_simple
+機能をBluetoothスピーカーのみに絞ったｽﾀｯｸﾁｬﾝのアプリです。
